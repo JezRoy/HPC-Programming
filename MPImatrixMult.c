@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <omp.h>
+#include <mpi.h>
 
 int main() {
     
